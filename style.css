@@ -1,0 +1,117 @@
+
+.navbar-container img{
+    position: absolute;
+    left: 150px;
+    top: 50px;
+    
+}
+.list {
+position: absolute;
+top: 50px;
+left: 600px;
+list-style: none;
+}
+.list-item{
+    display: inline-block;
+    padding-right: 72px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+.search-icon{
+    position: absolute;
+    right:58px;
+}
+.button-group{
+    position: absolute;
+    right: 30px;
+    top: 80px;
+    
+    
+    
+    
+
+}
+.star{
+    position: absolute;
+    left: 85%;
+    top: 200px;
+}
+.globe{
+    position: absolute;
+    right: 50%;
+    top: 30%;
+}
+.square{
+    position: absolute;
+    left: 15%;
+    top: 75%;
+}
+.hero-container-right
+{
+    position: absolute;
+    left: 50%;
+    top: 60%;
+}
+.hero-container img{
+    position: absolute;
+    left: 60px;
+    top: 24%;
+}
+h1{
+    font-size: 350%;
+}
+.button-email{
+    position: absolute;
+    right: 70%;
+
+}
+.button-join{
+    position: absolute;
+    right: 50%;
+}
+h4{
+    position: absolute;
+    top: 130%;
+    left: 30%;
+}
+.wht{
+    position:absolute;
+    top: 150%;
+    left: 37%;
+}
+.insta{
+    position:absolute;
+    top: 150%;
+    left: 5%;
+}
+.fb{
+    position:absolute;
+    top: 150%;
+    left: 15%;
+}
+.fbf{
+    position:absolute;
+    top: 150%;
+    left: 25%;
+}
+.logoo{
+    position:absolute;
+    top: 3%;
+    left: 0%; 
+}
+.hero-description{
+    font-size: 120%;
+    text-orientation: sideways-right;
+}
+.container li:hover
+{
+    background: #be9709;
+    box-shadow: 0 0 2px 2px ;
+    width: auto;
+
+    
+
+}
